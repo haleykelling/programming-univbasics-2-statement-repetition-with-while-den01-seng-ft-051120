@@ -1,6 +1,6 @@
 # Write your code here
 n = 10
-while n > 0
+while n > 0 do
   puts n
   n -= 1
 end
